@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-03-06 12:11+0000\n"
+"PO-Revision-Date: 2025-03-06 12:47+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -25,7 +25,7 @@ msgstr "Conto analitico"
 #. module: account_analytic_no_lines
 #: model:ir.model.fields,field_description:account_analytic_no_lines.field_account_analytic_account__gl_balance
 msgid "Analytic Balance (GL)"
-msgstr "Saldo analitico (GL)"
+msgstr "Saldo analitico (CG)"
 
 #. module: account_analytic_no_lines
 #: model_terms:ir.ui.view,arch_db:account_analytic_no_lines.account_analytic_account_form_view
@@ -35,7 +35,7 @@ msgstr "Costo/Ricavo"
 #. module: account_analytic_no_lines
 #: model:ir.model.fields,field_description:account_analytic_no_lines.field_account_analytic_account__gl_credit
 msgid "Credit (GL)"
-msgstr "Credito (GL)"
+msgstr "Credito (CG)"
 
 #. module: account_analytic_no_lines
 #: model:ir.model.fields,help:account_analytic_no_lines.field_account_analytic_account__gl_balance
@@ -45,7 +45,7 @@ msgstr "Credito - Debito"
 #. module: account_analytic_no_lines
 #: model:ir.model.fields,field_description:account_analytic_no_lines.field_account_analytic_account__gl_debit
 msgid "Debit (GL)"
-msgstr "Debito (GL)"
+msgstr "Debito (CG)"
 
 #. module: account_analytic_no_lines
 #: model:ir.model.fields,field_description:account_analytic_no_lines.field_account_analytic_account__display_name
@@ -78,4 +78,4 @@ msgstr "Ultima modifica il"
 #. module: account_analytic_no_lines
 #: model:res.groups,name:account_analytic_no_lines.show_analytic_entries
 msgid "View Analytic Entries"
-msgstr ""
+msgstr "Mostra registrazioni analitiche"
